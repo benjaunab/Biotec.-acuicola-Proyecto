@@ -13,7 +13,7 @@ __Hipotesis__:
 
 __Objetivo general__: 
 
-Demostras la efecacia del qRT-PCR para detectar el patogeno P. Salmonis al compararlo con otras tecnicas.
+Demostrar la efecacia del qRT-PCR para detectar el patogeno P. Salmonis al compararlo con otras tecnicas.
 
 __Objetivo Especifico__: 
 
