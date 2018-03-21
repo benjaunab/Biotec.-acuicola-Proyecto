@@ -1,5 +1,6 @@
 
-## Ensayo de qRT-PCR para la deteccion de Piscirickettsiosis Salmoni en trucha arcoiris (Oncorhynchus mykiss) y comparacion con otras tecnicas.
+## Ensayo de qRT-PCR para la deteccion de Piscirickettsiosis Salmoni en trucha arcoiris (Oncorhynchus mykiss).
+
 
 __Abstract__ 
 
@@ -17,8 +18,8 @@ Demostrar la efecacia del qRT-PCR para detectar el patogeno P. Salmonis al compa
 
 __Objetivo Especifico__: 
 
-Realizar cultivos de la bacteria Piscirickettsiosis Salmonis. 
+Realizar cultivos de la bacteria Piscirickettsiosis Salmonis para luego analizarlos. 
 
-Realizar los distintos ensayos para reconocer al patogeno.
+Realizar los distintos ensayos para identificar el patogeno.
 
 Comparar los resultados obtenidos de los ensayos.
